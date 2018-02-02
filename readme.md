@@ -11,7 +11,7 @@ Colorblindness or color vision deficiency (CVD) affects roughly 8% of men and
 (rods) in the retina which is responsible for our baseline and low-light
 vision.  In addition to rod cells, humans (unlike many mammals) are trichromats
 meaning that there are 3 additional photosensitive receptors (called opsins)
-grant us our colorvision[^1]; these are cone cells and each type of cone
+grant us our colorvision[1][1]; these are cone cells and each type of cone
 responds most strongly to a different portion of the light spectrum.  The L-cone
 (or long-wave cone, OPN1LW) gives us red perception, the M-cone (or medium-wave
 cone, OPN1MW) gives us green perception, and the S-cone (or short-wave cone,
@@ -27,26 +27,26 @@ These problems can be genetic or trauma related and their severity can range
 from mild (\*-anomolous) to complete absence (\*-opia).  Problems with red or
 green cones is substantially more common than problems with the blue cone. This
 is a consequence of the fact that our green cone is actually a genetic duplicate
-of our red cone that happened sometime within the last 80 million years[^2]!
+of our red cone that happened sometime within the last 80 million years[2][2]!
 Because of this gene duplication, both the red and green opsin genes are encoded
 on the X chromosome (whereas blue is encoded on chromosome 6).  Thus mutations
 on the X chromosome may interfer with the normal expression of the opsin
 proteins, leading to color deficient vision.  Because men only have one copy of
 the X chromosome, a defective X chromosome necessarily leads to colorblindness
 whereas women can be carriers of colorblindness assuming they have not inherited
-two defective X chromosomes[^3].
+two defective X chromosomes[3][3].
 
 Blue CVD ("tritan"s) is substantially rarer because the gene is encoded on
 chromosome 6. That said, it can (and so can red and green CVD) occur due to
 trauma, aging, some diseases, or drugs. For example, through diabetes, shaken
 baby syndrome, macular degeneration, and the TB drug ethambutol.
 
-[^1]: Note that there are many opsins in the retina of which more than 4 are
+[1]: Note that there are many opsins in the retina of which more than 4 are
   involved in light sensing and vision.
-[^2]: True green opsins that can be found in birds, for example, have maximal
+[2]: True green opsins that can be found in birds, for example, have maximal
   sensitivity near 500nm with red cone sensitivity maximal at 560nm.  Us humans
   have green and red maximal sensitivity around 530nm and 560nm respectively.
-[^3]: Some women are carriers of colorblindness can actually be tetrachromats.
+[3]: Some women are carriers of colorblindness can actually be tetrachromats.
   In female mammals, one X chromosome is always inactivated in each cell, but
   this X-inactivation is random, resulting in both the normal and defective X
   chromosomes being expressed in different retinal cells.  In rare cases, the
